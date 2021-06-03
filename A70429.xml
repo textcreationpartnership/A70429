@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from Amsterdam to a friend in England</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70429</idno><idno type="EEBO-CITATION">9566541</idno>
+  <idno type="VID">43629</idno>
+  <idno type="EEBO-PROQUEST">2248508471</idno>
+  
+            <idno type="STC">Wing L1439</idno>
+            <idno type="STC">ESTC R26840</idno>
+            <idno type="OCLC">09566541</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:51 or 282:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from Amsterdam to a friend in England</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dutch War, 1672-1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43629:1"/>
+            <pb facs="tcp:43629:1"/>
+            <p>A LETTER <hi>FROM</hi> Amsterdam, TO A FRIEND IN ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. H.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43629:2"/>
+            <pb n="1" facs="tcp:43629:2"/>
+            <opener>
+               <salute>My kind Co-operator,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat from you of the eighth Instant I re<g ref="char:EOLhyphen"/>ceived, and am entirely yours, God speed the Plow here, and in <hi>England.</hi> I hope in short time to give you a good Account of my little Embassy in this place. No body at the <hi>Hague</hi> knows any thing of it yet; nor shall they. Be sure no Post to fail me; else I and my <hi>Fellow-Labourers</hi> here, shall be to seek in our Business. Tell our Friends I cannot go quick and through with it, unless constant returns be made hither, to fill the Bag and the Bottle. These are the Baits that I must fish with: the surest way to catch an <hi>Amsterdamer</hi> is by the Belly.</p>
+            <p>We were last night no less than <hi>Three Nations</hi> together at Sup<g ref="char:EOLhyphen"/>per; but all of a <hi>Knot:</hi> nothing can untie us but want of Money. My <hi>Scots Fugitive</hi> was so sharp and quick upon sight of Flesh<g ref="char:EOLhyphen"/>meat, that he laid aside his long Grace, and without blessing God, or cursing the Duke of <hi>L.</hi> he fell to, and fed like a Farmer, whilst I, snapping a bit now and then, fell to tunning up <hi>Old Hock</hi> in Min Heer the Burgomaster; for our Companion is of such a humour, that till he be top-full, he never vents his Oracles against the house of <hi>Orange,</hi> and Court of <hi>England.</hi> But in this Pickle, the Man is old dog at driving <hi>Private Trade,</hi> and <hi>Publick Counsels:</hi> So e're Supper was done, we became ripe for business.</p>
+            <p>About half an hour after, came in two or three more of the Magistrats, and with them same <hi>Scots</hi> of the Common Persecu<g ref="char:EOLhyphen"/>tion: Then the <hi>Romer</hi> having walkt a round or two more, and our Letters of Intelligence from all parts being read, your Ac<g ref="char:EOLhyphen"/>counts from <hi>England</hi> pleased me best; other from <hi>France</hi> were not much inferiour, and most welcome to <hi>Min Heer,</hi> because as Monsieur <hi>Louvoy</hi> whistles, the <hi>Louvestein</hi> Party dances. No wonder then that the influence from hence hath made such foul weather at
+<pb n="2" facs="tcp:43629:3"/> the <hi>Hague.</hi> That King saw 'twas best way to quit the <hi>Flemish Campagn,</hi> and divert his Army, when less than one quarter of the Charge may save his Stake in <hi>Flanders</hi> till another Season, and perhaps without the striking so much as one stroke, spoil the design of Arms out of <hi>England</hi> and <hi>Holland.</hi>
+            </p>
+            <p>He had Intelligence the <hi>Tide is turn'd</hi> in <hi>England:</hi> that whereas last year some of us were for War against him, We now are the Men that cry it down: I perceive <hi>charging of Pistols</hi> by a <hi>French hand,</hi> may sometimes do more than all their Cannon: The Court some Moneths ago were reviled as Men against the War, and <hi>Pensioners</hi> of <hi>France;</hi> Now I hear the Court Ministers begin to retort the like jealousie upon you and your Friends: Ve<g ref="char:EOLhyphen"/>rily, the <hi>Dutch</hi> say, yours is either the <hi>Floating Island,</hi> or founded upon <hi>Quick silver:</hi> and this part of the <hi>Continent</hi> here, being a Quake-mire, is moveable too, though not so quick; The <hi>French</hi> offer now as well as we to the <hi>Shrine of De Witt,</hi> the Martyr and Saint of this Republick; and his <hi>Louvesteiners</hi> resolve that you and our <hi>Scotch</hi> Friends shall not get All; For they, if they can, will do as much of his business as the best of you: only they take it not well to be so sham'd with that broad story about a pre<g ref="char:EOLhyphen"/>tended <hi>Project of Peace</hi> betwixt <hi>France</hi> and <hi>England</hi> in favour of the <hi>Swede;</hi> The <hi>Nassauvians</hi> now at the <hi>Hague,</hi> conclude it was but a <hi>French piece of Gullery,</hi> to choak the Current of the <hi>General Confederacy:</hi> A meer State-stratagem to blow off the <hi>Prohibition of French Commodities</hi> in this Countrey.</p>
+            <p>'Twas neatly done, and had like to have taken effect, thanks be to you (SIR) and the rest of your Friends, who gave the occasion of disputing it here, by yoking your selves to the <hi>Prohibition</hi> first, that this State might remain at liberty to lurch you after<g ref="char:EOLhyphen"/>wards, if they think it convenient. 'Twas delicately done also to worry and hurry one another into Resolutions for a War before you were ready; and now when 'tis resolved on, to clog and clap on Weights to hinder it. At this rate things must needs very kind<g ref="char:EOLhyphen"/>ly operate: Your last hath given me and the rest of your Friends here admirable satisfaction; go on and prosper in all the particu<g ref="char:EOLhyphen"/>lars of your contrivance; the day's your own: if we can but ap<g ref="char:EOLhyphen"/>ply fresh Leeches to the Posteriors of the Kingdom, we shall soon
+<pb n="3" facs="tcp:43629:3"/> recover. Those that are here for the interest of <hi>Republick</hi> will be forward enough too, if <hi>France</hi> be cordial (which we doubt not) to our Party. He hath his end in it upon them, and us: How<g ref="char:EOLhyphen"/>ever, our Brains shall stretch hard but we will out-reach him. What a fight 'tis to see our Friends in <hi>England, Holland,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> so well twisted! This <hi>Three-fold Cord</hi> is strong enough to hang, or hamper all our Adversaries.</p>
+            <p>Methinks I see your Grandees lodged in <hi>Truckle-beds</hi> already; 'twill soon be done, if we first handsomely divide the Courtiers, and make use of the envy of some of them at their Fellows; then put them like Pellets to drive out one another.</p>
+            <p>The only way to wheedle them into it, is, first by round charges to endeavour a remove of the <hi>Ministers</hi> in possession; 'tis the ready way to come at the Master; the hope of their Places will engage the rest of them to help on the work. Set but this wheel a going, and these are the Cogs that will turn round the Mill. What though you have hitherto had but ill luck in lifting at them? If one Broadside do not sink a Vessel, another may: it was a wise Pro<g ref="char:EOLhyphen"/>vidence that reserved our <hi>Confessors</hi> last year for this purpose. The treating of such Men with <hi>Sugar-plums,</hi> and <hi>Sweet-meats</hi> to throw among the people, did <hi>Strafford's</hi> business, and yours, and the Kings's too. It was thought the ready road to sweetning and Quiet; but behold a Troop of Thousands! yielding in one point made way to ask All, and the Multitude to believe all were guilty as well as one. A tacit Court confession of guilt by one Sacrifice, past for Proof enough that all was true of the rest. If the same point can be gained again, be it but an <hi>unbloody</hi> piece of work, so it amount to a removal of any one principal Man, it may perhaps take the more easily, and do the Feat as well, if not better: Shape your vengeance as it may not startie the Nature of their Master. So Court places may fall one after another; their's your reward upon Earth, whatever else you may expect from Heaven.</p>
+            <p>Ply His Majesty with warm Clothes if ye can; tell him he is Just and Good; but Counsels are ill, or weak, no matter which. Drive any peg that will go; Sooth him in hope to smite the other: A dogged humour of <hi>no Money</hi> will please the People, and plunge him. Start up difficulties, promote his necessities; then
+<pb n="4" facs="tcp:43629:4"/> work upon 'em: and make bold to tell him, only <hi>new Friends</hi> can remedy 'em. Read your Lectures backward, say the War was most adviseable last year, when he had neither Preparations nor Moneys for it: but not now you have got him into it. Bring on <hi>new Accounts of Growth of Popery and Arbitrary Government:</hi> Charge them upon <hi>evil Counsellers:</hi> Be sure to lift 'em, at any hand lift 'em: Noyse may do it: ah▪ but Tumult is wanting! Then burn the Pope again, to fulfill the <hi>Revelation:</hi> that will draw together the Rabble: But forget not <hi>Cakes and Ale for 'em:</hi> Pot-valiant will do as much as <hi>Press-money,</hi> if you bid defiance to a <hi>Standing-army,</hi> though it be but in the Clouds.</p>
+            <p>If this will not do in the City, then once again press <hi>Grand Jury-men</hi> in the Counties, to Petition for a New Parliament. It was well and wisely done to send them down the late Books, to inspire and quicken 'em. The <hi>Judges</hi> will not dare to hinder, if in the mean time you Rattle them roundly for what they have done. If you perceive them sturdy, then cast dirt at 'em: it will stick, and spot too, it being upon <hi>Scarlet.</hi> You have men of Law enow that have done you service, who gape for their Places: 'Tis fit their mouths should be stopt, that they may open with Alacrity at Prerogative and Allegiance.</p>
+            <p>'Tis fine, to see our <hi>Scottish Friends</hi> trace the old Method of of 1640. And how every thing hits to improve the Brotherly Cor<g ref="char:EOLhyphen"/>respondence: Lords and Grievances came then together out of <hi>Scotland:</hi> God send us good luck: you know what follow'd. They then went to Court one day, another day to Conventicles, and Conclaves, in <hi>London:</hi> Advise them to do so now, A new bustle against that Government began <hi>An.</hi> 1674. We and our Party at the same time began the like bustle at <hi>Westminster:</hi> They, and we have walkt hand in hand like Brethren ever since. What have we to do next, but to revive and rake that <hi>Phoenix</hi> the COVENANT, out of its Ashes?</p>
+            <p>Be it your Care to time the Business: my <hi>Scotch Confidents</hi> here do say, no time so fit at home, as when the KING is Engaged abroad: then it will do the <hi>French</hi> work, and ours too.</p>
+            <p>Methinks 'tis fine Musick when these four Nations play in Concert: and 'tis Glorious for <hi>Scotland,</hi> that it hath the Honour to <hi>Lead the Dance.</hi>
+            </p>
+            <pb n="5" facs="tcp:43629:4"/>
+            <p>What a dull Brute of late is the Subject of <hi>England!</hi> There<g ref="char:EOLhyphen"/>fore (as the old Song saith) <hi>Blew Cap for me.</hi> Our men of that Nation Write, Preach, and Fight too: they have got likewise the right knack of Distinction, and understand the way of Sup<g ref="char:EOLhyphen"/>plicating the KING'S Person against His Authority. The sum of all is, get out the great Loon there, and perhaps none else can Saddle or Mount 'em for His Majesties Service. I like that Course consulted by our good Friends, that if he cannot be Impeached in <hi>Scotland,</hi> 'tis but turning the Table, and you may do it at <hi>Westminster.</hi> The Pitcher hath two Ears: if you cannot lay hold on one side, take him by t'other, and dash him to the ground: Remember his name is not only <hi>Lauderdail,</hi> but <hi>Guilford</hi> too. The honest <hi>Covenanters</hi> have been whetting their Pens at him these Five years; so have we our Spleens in <hi>England,</hi> we have spent the most part of our Gaul in Ink-pots; Try what the rest will do in a round Charge or two. Nevertheless, write on still: I am sorry we have lost the <hi>Prime</hi> Pen: therefore make sure of <hi>Andrew.</hi> Hee's a shrewd man against <hi>Popery</hi> though for his Re<g ref="char:EOLhyphen"/>ligion you may place him, as <hi>Pasquin</hi> at <hi>Rome</hi> placed <hi>Henry</hi> the <hi>Eighth,</hi> betwixt <hi>Moses,</hi> the <hi>Messiah,</hi> and <hi>Mahomet,</hi> with this <hi>Motto</hi> in his Mouth, <hi>quò me vertam nescio.</hi> 'Tis well he is now <hi>Trans<g ref="char:EOLhyphen"/>prosed</hi> into Politicks: they say he had much ado to live upon Poetry. What a blunt-tool the people's become! No mutiny? However, let him whet on till they take an Edge, and be sure that you and the rest of our Comrades whet him.</p>
+            <p>'Tis time now to Say, or Print any thing that will sharpen. Blacken the whole undertaking: Say, in this Marching Army is Couch'd a <hi>Standing one.</hi> Rant roundly at <hi>Adjournments:</hi> Say, <hi>Neutrality</hi> is better now when we are arm'd, than it was when we were not: Say all you can to befool the <hi>Forain Confederacy,</hi> and frustrate it: for, what was Wisdom last Summer, is none now. Do all you can to spoil this Meeting also; then follow▪ <hi>No Money:</hi> Urge that point long and loud: it may force the Court to do that for supply, which we may have occasion to Rail at afterwards and Rouz<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men with a Witness. I Ply the <hi>Northern Supplicators,</hi> and let them ply you.</p>
+            <pb n="6" facs="tcp:43629:5"/>
+            <p>Gather the Quakers and Fanaticks under the wing; and allow them now for Protestants for all the <hi>Act of Ʋniformity:</hi> be kind, and give 'em a little <hi>Opium;</hi> So they may forget the tyranny of their Elder Brother, and be all one again; then the <hi>New Cause</hi> may prove as good as the <hi>Old one.</hi>
+            </p>
+            <p>If you will hatch somewhat like a <hi>Remonstrance,</hi> I like it well; go back to 41. There's your perpetual Pattern; matter enough to deal with any King in <hi>Europe:</hi> Nothing in Heaven can more fermentate and leven the whole lump: But be sure you do not call it <hi>Remonstrance;</hi> a new name will do better to cover the pur<g ref="char:EOLhyphen"/>pose: and for a new Model of State, and States-men, commend me to the <hi>Nineteen Propositions,</hi> to begin with.</p>
+            <p>To crown the work, and make all things easie, only one thing is wanting to turn the World. <hi>Archimedes,</hi> to effect it, required but one point to stand on without the Circumference: Do you gain but one in the <hi>Centre,</hi> and you'l do it as readily; that is the King's Point. If He move, and tread never so little aside it, the stoutest will stagger, no man will stand to it.</p>
+            <p>Just now Letters are come hither from the <hi>Hague,</hi> where two Twins are strugling in the Womb of their Business; many thanks to you (SIR.) Whether the delivery will be now by the hand of a <hi>French</hi> Midwife, or an <hi>English,</hi> is not to be understood yet. They are come to the birth: Some would have the Name of the first-born to be <hi>Prohibition:</hi> others would have the second be named <hi>Neutrality,</hi> because he laid hold on the heel of his Brother, which as our Friends of <hi>Louvenstein</hi> imagine, must signifie, that the Younger is to trip up the heels of the Elder.</p>
+            <p>
+               <hi>Remember me to,</hi> &amp;c. <hi>and let me be answered in the main of my former.</hi>
+            </p>
+            <closer>
+               <signed>I am Yours, <hi>&amp;c.</hi>
+               </signed>
+               <dateline>
+                  <hi>Amsterdam,</hi>
+                  <date>18th of April, 1678. <hi>English Stile.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43629:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
